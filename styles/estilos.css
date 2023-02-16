@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Explora&family=Kavoon&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family:explora-cursive;;
+}
+
+h1{
+    font-family: 'Kavoon', cursive;
+    margin: 8px 8px;
+    color: mediumorchid;
+    text-shadow: 1px 1px red;
+
+}
+p{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+b{
+    color:aqua;
+}
+mark{
+    background-color: chartreuse;
+}
+sup,sub{
+    color: darkgreen;
+}
+ul,ol{
+    padding-left: 20px;
+}
+li{
+    color: burlywood;
+    text-shadow: 1px 1px red;
+}
